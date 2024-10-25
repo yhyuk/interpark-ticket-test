@@ -2,8 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-myId = "hyuk2841"
-myPw = "kyh951128!!"
+myId = "인터파크 id"
+myPw = "인터파크 pw"
 
 # 웹드라이버 경로 설정 (크롬드라이버를 사용)
 driver = webdriver.Chrome()
